@@ -1,0 +1,7 @@
+README.md
+setup.py
+vectordb.egg-info/PKG-INFO
+vectordb.egg-info/SOURCES.txt
+vectordb.egg-info/dependency_links.txt
+vectordb.egg-info/requires.txt
+vectordb.egg-info/top_level.txt
